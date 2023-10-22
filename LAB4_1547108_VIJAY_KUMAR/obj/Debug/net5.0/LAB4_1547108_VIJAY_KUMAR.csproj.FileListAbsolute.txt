@@ -1,0 +1,32 @@
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.exe
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.deps.json
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.runtimeconfig.json
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.runtimeconfig.dev.json
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.dll
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\ref\LAB4_1547108_VIJAY_KUMAR.dll
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.pdb
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.csproj.AssemblyReference.cache
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.AssemblyInfoInputs.cache
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.AssemblyInfo.cs
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.csproj.CoreCompileInputs.cache
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.dll
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\ref\LAB4_1547108_VIJAY_KUMAR.dll
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.pdb
+C:\Users\saroy\source\repos\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.genruntimeconfig.cache
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.exe
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.deps.json
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.runtimeconfig.json
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.runtimeconfig.dev.json
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.dll
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\ref\LAB4_1547108_VIJAY_KUMAR.dll
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\bin\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.pdb
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.csproj.AssemblyReference.cache
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.AssemblyInfoInputs.cache
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.AssemblyInfo.cs
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.csproj.CoreCompileInputs.cache
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.dll
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\ref\LAB4_1547108_VIJAY_KUMAR.dll
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.pdb
+C:\Users\saroy\OneDrive\BCS\Data structures and Algorithms\LAB4\PROJECT\LAB4_1547108_VIJAY_KUMAR\obj\Debug\net5.0\LAB4_1547108_VIJAY_KUMAR.genruntimeconfig.cache
