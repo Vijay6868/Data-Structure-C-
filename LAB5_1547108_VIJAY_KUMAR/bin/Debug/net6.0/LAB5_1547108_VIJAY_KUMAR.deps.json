@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LAB5_1547108_VIJAY_KUMAR/1.0.0": {
+        "runtime": {
+          "LAB5_1547108_VIJAY_KUMAR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB5_1547108_VIJAY_KUMAR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
